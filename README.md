@@ -1,6 +1,6 @@
 <div align="center"> <h1> Repos que você precisa conhecer :octocat: </h1> 
 
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tayhn/repos-good-toknow?logoColor=red&style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/tayhsn/repos-good-toknow?logoColor=orange&style=social"> </div>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tayhsn/repos-good-toknow?logoColor=red&style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/tayhsn/repos-good-toknow?logoColor=orange&style=social"> </div>
 
 ### Esses repositórios vão te auxiliar a elevar sua popularidade e chamar mais atenção para seus projetos :chart_with_upwards_trend:
 
